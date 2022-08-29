@@ -1,3 +1,3 @@
-# web-platform-wbnb7n
+Project: Landing Page
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-wbnb7n)
+Project 1 from The Odin Project
